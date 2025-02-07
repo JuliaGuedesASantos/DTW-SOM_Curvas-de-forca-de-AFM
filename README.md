@@ -5,20 +5,23 @@ O Self-Organizing Map (SOM, do português, Mapa Auto-Organizável) é uma rede n
 
 Neste contexto, o presente trabalho aplica o método DTW-SOM à clusterização de curvas de força obtidas por meio da caracterização de materiais utilizando Atomic Force Microscopy (AFM). Inicialmente, os pontos significativos das curvas na base de dados serão identificados por meio de motif discovery. Em seguida, o DTW-SOM será empregado para identificar os padrões centrais dos dados de entrada, facilitando, assim, a análise e interpretação das medições realizadas.
 
-### **Divisão do GitHub**
+### **Divisão do GitHub** 🗂️
 O GitHub se encontra dividido em pastas, sendo essas:
 <ul>
   <li>Au-Au: Possui os primeiros testes realizados com a biblioteca DTW-SOM, com a utilização de dados de feitos com medições de substrato e ponta de ouro. Além dos notebooks, contém uma tabela com o resumo dos resultados e o dataset utilizado. </li>
   <li>Outros códigos: Contém outros códigos que foram feitos durante a execução do projeto</li>
 </ul>
 
-### Bibliotecas utilizadas
-*
-*
-*
+### Bibliotecas utilizadas 📚
+* matplotlib 3.9.2
+* numpy  2.1.3
+* pyclustering 0.10.1.2
+* matrixprofile-ts 0.0.9
+* dtwsom 1.0
 
 ### Referências 🗃️
 Link para o GitHub do projeto original: https://github.com/misilva73/dtw_som
+
 [1] Gabriel R Schleder et al. “From DFT to machine learning: recent approaches to materials science–a review”, J. Phys. Mater. 2 032001, 2019. Acesso em 14 de janeiro de 2025.
 
 [2] Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. 3. ed. Estados Unidos: O'Reilly Media, 2022. ISBN 9781492032649.
