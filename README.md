@@ -1,4 +1,4 @@
-# <center> **DTW SOM - Curvas de força de AFM** 📊💪 </center>
+# <p align="center"> **DTW SOM - Curvas de força de AFM** 📊💪 </p>
 ### **Resumo** 🗺️🕰️
 <p align="justify">
 O Self-Organizing Map (SOM, do português, Mapa Auto-Organizável) é uma rede neural não supervisionada que busca reduzir a dimensionalidade dos dados ao agrupar atributos em clusters que preservam suas principais características. Originalmente, o método utiliza a distância euclidiana para comparar a similaridade entre os dados de entrada e os neurônios. No entanto, o artigo referenciado em [3] propõe uma adaptação desse método ao empregar a técnica de Dynamic Time Warping (DTW), tornando-o mais adequado para a análise de séries temporais. Enquanto a distância euclidiana mede a menor distância entre dois pontos, o DTW avalia a similaridade entre duas séries temporais, permitindo um alinhamento flexível que maximiza a correspondência entre elas. 
