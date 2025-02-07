@@ -1,6 +1,6 @@
 # <center> **DTW SOM - Curvas de força de AFM** 📊💪 </center>
 ### **Resumo** 🗺️🕰️
-<div style=text-align:justify;>
+<p style="text-align: justify;">
 O Self-Organizing Map (SOM, do português, Mapa Auto-Organizável) é uma rede neural não supervisionada que busca reduzir a dimensionalidade dos dados ao agrupar atributos em clusters que preservam suas principais características. Originalmente, o método utiliza a distância euclidiana para comparar a similaridade entre os dados de entrada e os neurônios. No entanto, o artigo referenciado em [3] propõe uma adaptação desse método ao empregar a técnica de Dynamic Time Warping (DTW), tornando-o mais adequado para a análise de séries temporais. Enquanto a distância euclidiana mede a menor distância entre dois pontos, o DTW avalia a similaridade entre duas séries temporais, permitindo um alinhamento flexível que maximiza a correspondência entre elas. 
 
 Neste contexto, o presente trabalho aplica o método DTW-SOM à clusterização de curvas de força obtidas por meio da caracterização de materiais utilizando Atomic Force Microscopy (AFM). Inicialmente, os pontos significativos das curvas na base de dados serão identificados por meio de motif discovery. Em seguida, o DTW-SOM será empregado para identificar os padrões centrais dos dados de entrada, facilitando, assim, a análise e interpretação das medições realizadas.
@@ -31,5 +31,5 @@ Link para o GitHub do projeto original: https://github.com/misilva73/dtw_som
 
 [6] Mayatopani, Hendra, et al. “Implementation of Self-Organizing Map (SOM) Algorithm for Image Classification of Medicinal Weeds”. Jurnal RESTI (Rekayasa Sistem Dan Teknologi Informasi), vol. 7, no 3, junho de 2023, p. 437–44. jurnal.iaii.or.id, https://doi.org/10.29207/resti.v7i3.4755.
 
-</div>
 [7] Silva, Maria Inês, e Roberto Henriques. Exploring time-series motifs through DTW-SOM. arXiv:2004.08176, arXiv, 17 de abril de 2020. arXiv.org, https://doi.org/10.48550/arXiv.2004.08176.
+</p>
