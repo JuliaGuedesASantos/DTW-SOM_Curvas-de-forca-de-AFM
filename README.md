@@ -12,6 +12,7 @@ Neste contexto, o presente trabalho aplica o método DTW-SOM à clusterização 
 O GitHub se encontra dividido em pastas, sendo essas:
 <ul>
   <li>Au-Au: Possui os primeiros testes realizados com a biblioteca DTW-SOM, com a utilização de dados de feitos com medições de substrato e ponta de ouro. Além dos notebooks, contém uma tabela com o resumo dos resultados e o dataset utilizado. </li>
+  <li>Lig-CL: Possui dois testes (um com escalonamento e outro sem), um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes - e o dataset utilizado.
   <li>Outros códigos: Contém outros códigos que foram feitos durante a execução do projeto. </li>
 </ul>
 
