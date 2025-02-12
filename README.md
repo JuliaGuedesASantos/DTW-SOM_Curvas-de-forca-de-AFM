@@ -11,8 +11,10 @@ Neste contexto, o presente trabalho aplica o método DTW-SOM à clusterização 
 ### **Divisão do GitHub** 🗂️
 O GitHub se encontra dividido em pastas, sendo essas:
 <ul>
-  <li>Au-Au 🐶: Possui os primeiros testes realizados com a biblioteca DTW-SOM, com a utilização de dados de feitos com medições de substrato e ponta de ouro. Além dos notebooks, contém uma tabela com o resumo dos resultados e o dataset utilizado. </li>
-  <li>Lig-CL 🐛: Possui dois testes (um com escalonamento e outro sem), um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes - e o dataset utilizado.
+  <li> Au-Au 🐶: Possui os primeiros testes realizados com a biblioteca DTW-SOM, com a utilização de dados de feitos com medições de substrato e ponta de ouro. Além dos notebooks, contém uma tabela com o resumo dos resultados e o dataset utilizado. </li>
+  <li> Au- SiO2 🫎: Possui um teste, um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes - e o dataset utilizado. </li>
+  <li> Lig-SiO2 🕷️: Possui dois testes (um com escalonamento e outro sem), um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes - e o dataset utilizado.
+  <li> Lig-CL 🐛: Possui dois testes (um com escalonamento e outro sem), um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes - e o dataset utilizado.
   <li>Outros códigos 👩🏻‍💻👩🏻‍💻: Contém outros códigos que foram feitos durante a execução do projeto. </li>
 </ul>
 
@@ -34,7 +36,7 @@ Link para o GitHub do projeto original: https://github.com/misilva73/dtw_som
 
 [4] “Understanding Dynamic Time Warping”. Databricks, 30 de abril de 2019, https://www.databricks.com/blog/2019/04/30/understanding-dynamic-time-warping.html.
 
-[5]Tavenard, Romain. An introduction to Dynamic Time Warpi, 2021.. https://rtavenar.github.io/blog/dtw.html. Acesso em 28 de janeiro de 2025.
+[5] Tavenard, Romain. An introduction to Dynamic Time Warpi, 2021.. https://rtavenar.github.io/blog/dtw.html. Acesso em 28 de janeiro de 2025.
 
 [6] Mayatopani, Hendra, et al. “Implementation of Self-Organizing Map (SOM) Algorithm for Image Classification of Medicinal Weeds”. Jurnal RESTI (Rekayasa Sistem Dan Teknologi Informasi), vol. 7, no 3, junho de 2023, p. 437–44. jurnal.iaii.or.id, https://doi.org/10.29207/resti.v7i3.4755.
 
