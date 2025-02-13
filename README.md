@@ -9,6 +9,7 @@ Neste contexto, o presente trabalho aplica o método DTW-SOM à clusterização 
 </p>
 
 ### **Divisão do GitHub** 🗂️
+<p align="justify">
 O GitHub se encontra dividido em pastas, sendo essas:
 <ul>
   <li> Apresentações 📺: Pasta com os slides utilizados nas apresentações do projeto (Explicação do método, resultados iniciais com o primeiro dataset e resultados finais). </li>
@@ -17,8 +18,8 @@ O GitHub se encontra dividido em pastas, sendo essas:
   <li> Lig-SiO2 🕷️: Possui dois testes (um com escalonamento e outro sem), um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes -, o dataset utilizado e arquivo pickle com a rede neural treinada.
   <li> Lig-CL 🐛: Possui dois testes (um com escalonamento e outro sem), um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes -, o dataset utilizado e arquivo pickle com a rede neural treinada
   <li>Outros códigos 👩🏻‍💻👩🏻‍💻: Contém outros códigos que foram feitos durante a execução do projeto. </li>
-  
 </ul>
+</p>
 
 ### Bibliotecas utilizadas 📚
 * matplotlib 3.9.2
