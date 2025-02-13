@@ -11,6 +11,7 @@ Neste contexto, o presente trabalho aplica o método DTW-SOM à clusterização 
 ### **Divisão do GitHub** 🗂️
 O GitHub se encontra dividido em pastas, sendo essas:
 <ul>
+  <li> Apresentações 📺: Pasta com os slides utilizados nas apresentações do projeto (Explicação do método, resultados iniciais com o primeiro dataset e resultados finais). </li>
   <li> Au-Au 🐶: Possui os primeiros testes realizados com a biblioteca DTW-SOM, com a utilização de dados de feitos com medições de substrato e ponta de ouro. Além dos notebooks, contém uma tabela com o resumo dos resultados e o dataset utilizado. </li>
   <li> Au- SiO2 🫎: Possui um teste, um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes - e o dataset utilizado. </li>
   <li> Lig-SiO2 🕷️: Possui dois testes (um com escalonamento e outro sem), um notebook com histogramas e gráficos - comparação dos pesos com os dados reais dos clusters mais relevantes - e o dataset utilizado.
